@@ -1,3 +1,4 @@
+![Cover Image](https://github.com/Maruf-Hosssen/Maruf-Hosssen/blob/maruf/Thank%20You!.jpg?raw=true)
 # Hi there, I'm Maruf 👋
 
 ## About Me
@@ -26,6 +27,17 @@ I'm a full stack web developer with expertise in creating dynamic and responsive
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+- **HTML**: Essential markup language for structuring web content.
+- **CSS**: Stylesheet language that enhances the presentation of HTML elements.
+- **Tailwind CSS**: Utility-first CSS framework that streamlines responsive web design.
+- **React**: Declarative JavaScript library for building interactive user interfaces.
+- **JavaScript**: Dynamic scripting language powering interactive web experiences.
+- **Node.js**: Runtime environment for scalable server-side applications in JavaScript.
+- **Express.js**: Minimalist web application framework for Node.js, ideal for APIs and backend services.
+- **MongoDB**: Flexible NoSQL database for managing diverse data types and high-volume workloads.
+- **PostgreSQL**: Robust relational database known for reliability, transactions, and complex queries.
+- **Prisma**: Modern database toolkit simplifying database access and management with type-safe queries.
 
 ## Projects
 ### [Portfolio Website](https://github.com/Maruf-Hosssen/Portfolio)
