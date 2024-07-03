@@ -41,7 +41,7 @@ A full-featured pet adoption platform where users can adopt pets and admin can a
 An IT center website with a modern UI built with React and Tailwind CSS, featuring a comprehensive product catalog, shopping cart, and checkout system.
 
 ## GitHub Stats
-![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maruf-Hosssen&show_icons=true&theme=radical)
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/maruf16245/)
