@@ -48,4 +48,4 @@ An IT center website with a modern UI built with React and Tailwind CSS, featuri
 - [Facebook](https://www.facebook.com/md.marufhasan.963)
 - [Email](mailto:01780527702maruf@gmail.com)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Maruf-Hosssen.Maruf-Hosssen)
