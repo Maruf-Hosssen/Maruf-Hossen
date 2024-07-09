@@ -5,6 +5,9 @@
 ## About Me
 I'm a full stack web developer with expertise in creating dynamic and responsive web applications. I enjoy building projects that solve real-world problems and continuously learning new technologies.
 
+## GitHub Commit Streak
+![Maruf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maruf-Hosssen&theme=radical)
+
 ## Skills
 - **HTML**: Essential markup language for structuring web content.
 - **CSS**: Stylesheet language that enhances the presentation of HTML elements.
